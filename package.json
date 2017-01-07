@@ -1,0 +1,19 @@
+{
+  "name": "angular2-gettingstarted",
+  "version": "1.0.0",
+  "description": "Materials for the [\"Angular 2: Getting Started\"](http://bit.ly/Angular2-GettingStarted) course on Pluralsight.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeborahK/Angular2-GettingStarted.git"
+  },
+  "author": "Callie Brooks <calidesigns42@gmail.com> (calliedesigns.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeborahK/Angular2-GettingStarted/issues"
+  },
+  "homepage": "https://github.com/DeborahK/Angular2-GettingStarted#readme"
+}
